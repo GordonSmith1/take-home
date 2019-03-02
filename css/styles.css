@@ -1,0 +1,13 @@
+.g-row {
+    background-color: #ccc;
+    color: #223;
+    border-style: solid;
+    border-color: rgb(70, 102, 70);
+}
+
+.n-row {
+    background-color: #223;
+    color: #ccc;
+    border-style: solid;
+    border-color: rgb(70, 102, 70);
+}
